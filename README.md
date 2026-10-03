@@ -1,5 +1,10 @@
 # 📘 Caderno Temático com NotebookLM — Naval Ravikant
 
+**Status:** Concluído  
+**Contexto:** Projeto desenvolvido como desafio de aprendizagem da DIO.
+
+Este repositório registra um estudo temático realizado com o NotebookLM sobre ideias de Naval Ravikant relacionadas a riqueza, liberdade financeira, alavancagem e tomada de decisão. Ele permanece público porque está vinculado ao projeto publicado na plataforma DIO.
+
 ## 📌 Contexto e Objetivos
 
 Este projeto tem como objetivo estudar e sintetizar os principais conceitos de riqueza, liberdade financeira e alavancagem apresentados por Naval Ravikant.
